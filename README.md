@@ -1,16 +1,34 @@
-## Hi there 👋
+Hey, I'm Khalil 👋
 
-<!--
-**khalilnouar87/khalilnouar87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Master’s student from Algeria
+💡 Passionate about Machine Learning, AI, and Web Technologies
+🧠 I love building intelligent systems and experimenting with new ideas
 
-Here are some ideas to get you started:
+ 🚀 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning & Deep Learning
+* NLP & Transformer Models
+* CMS & Web Development
+* AI Automation Projects
+* Data Science
+
+💻 Tech Stack
+
+* Python • Java • SQL
+* HTML • CSS • JavaScript
+* WordPress • VS Code 
+
+🌱 Currently Learning
+
+* Advanced ML techniques
+* Modern NLP architectures
+* Web development
+
+🎯 Goals
+
+* Build AI models
+* Create smart web applications
+* Contribute to open-source projects
+* Grow as an AI engineer & researcher
+
+> “Code, Learn, Build, Repeat.”
