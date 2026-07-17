@@ -4,7 +4,7 @@
 
 ### 🎓 AI Master's Graduate • AI Enthusiast • Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Building+AI+Powered+Applications;Designing+Modern+Web+Experiences;Open+Source+Learner;Creating+The+Future+🚀" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-LERÊVE-2563EB?style=for-the-badge)](https://le-reve-web.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-khalil-abderrahmane-nouar-b10388422/)
