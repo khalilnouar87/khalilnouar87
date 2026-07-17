@@ -2,13 +2,18 @@
 
 # 👋 Hey, I'm Khalil
 
-### 🎓 AI Master's Graduate • AI Enthusiast • Web Developer
+### 🎓 Master's Graduate in Artificial Intelligence • Web Developer • AI Enthusiast
 
-[<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Building+AI+Powered+Applications;Designing+Modern+Web+Experiences;Open+Source+Learner;Creating+The+Future+🚀" />](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Building+AI-Powered+Applications)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Building+AI-Powered+Applications)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-LERÊVE-2563EB?style=for-the-badge)](https://le-reve-web.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-khalil-abderrahmane-nouar-b10388422/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+<p>
+  <a href="https://le-reve-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-LERÊVE-2563EB?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-khalil-abderrahmane-nouar-b10388422/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -18,34 +23,38 @@
 
 🎓 Master's Graduate in **Artificial Intelligence**
 
-💡 Passionate about **Machine Learning**, **Artificial Intelligence**, and **Modern Web Development**.
+💡 Passionate about developing intelligent systems, AI-powered applications, and modern web experiences.
 
-🧠 I enjoy transforming ideas into intelligent applications, creating modern websites, and continuously learning emerging technologies.
+🧠 I enjoy solving real-world problems using Machine Learning, NLP, and software engineering while continuously learning new technologies.
 
-🌐 **Portfolio:** **https://le-reve-web.vercel.app/**
+🌍 **Portfolio:**  
+### 👉 **https://le-reve-web.vercel.app/**
 
 ---
 
 # 🚀 Interests
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Natural Language Processing (NLP)
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📚 Deep Learning
+- 💬 Natural Language Processing (NLP)
 - ⚡ Transformer Models
-- 🌐 CMS & Web Development
-- 🤝 AI Automation
+- 🌐 Web Development
+- 🛠️ CMS Development (WordPress)
 - 📊 Data Science
+- 🤝 Open Source
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
 </p>
 
-### Technologies & Tools
+### Frameworks & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode" />
@@ -56,33 +65,44 @@
 # 🌱 Currently Learning
 
 - Advanced Machine Learning
+- Large Language Models (LLMs)
 - Modern NLP Architectures
-- Building Scalable AI Systems
+- AI Automation
 - Modern Web Development
 
 ---
 
 # 🎯 Goals
 
-✔ Build impactful AI solutions
-
-✔ Create smart web applications
-
-✔ Contribute to Open Source
-
-✔ Continue growing as an AI Engineer & Researcher
+- 🚀 Build impactful AI applications
+- 🌐 Develop modern web platforms
+- 🤝 Contribute to open-source projects
+- 📖 Continue learning and growing as an AI Engineer
+- 💡 Create innovative solutions that solve real-world problems
 
 ---
 
-# 🌍 My Portfolio
+# 🌍 Portfolio
 
 <div align="center">
 
-### ✨ **LERÊVE**
+## ✨ LERÊVE
 
-### **https://le-reve-web.vercel.app/**
+### 🔗 https://le-reve-web.vercel.app/
 
-*Explore my projects, experience, skills, and latest work.*
+Discover my projects, experience, technical skills, and latest work.
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,7 +110,27 @@
 
 <div align="center">
 
-> ### *"Code • Learn • Build • Repeat."*
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+
+> **"Code. Learn. Build. Repeat."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:2563EB,100:06B6D4&section=footer"/>
 
