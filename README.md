@@ -29,6 +29,10 @@
 
 🌍 **Portfolio:**  
 ### 👉 **https://le-reve-web.vercel.app/**
+🌍 **LinkedIn:**  
+### 👉 **https://www.linkedin.com/in/ahmed-khalil-abderrahmane-nouar-b10388422/**
+🌍 **Kaggle:**  
+### 👉 **https://www.kaggle.com/khalilnouar87**
 
 ---
 
